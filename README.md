@@ -10,7 +10,7 @@ Asimismo, se centraliza el resto de acciones como la compra de las entradas, con
 ## :ok: Estado del proyecto
 Proyecto finalizado 
 
-http://localhost:9000/api/project_badges/measure?project=TechVirtualMuseum2&metric=alert_status&token=sqb_01f490bb42085df116831879c8954aaa59005a3b
+[![Quality gate](http://localhost:9000/api/project_badges/quality_gate?project=TechVirtualMuseum2&token=sqb_01f490bb42085df116831879c8954aaa59005a3b)](http://localhost:9000/dashboard?id=TechVirtualMuseum2)
 
 
 ## :white_check_mark: Tecnologías
