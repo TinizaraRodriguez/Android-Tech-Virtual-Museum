@@ -10,6 +10,8 @@ Asimismo, se centraliza el resto de acciones como la compra de las entradas, con
 ## :ok: Estado del proyecto
 Proyecto finalizado 
 
+http://localhost:9000/api/project_badges/measure?project=TechVirtualMuseum2&metric=alert_status&token=sqb_01f490bb42085df116831879c8954aaa59005a3b
+
 
 ## :white_check_mark: Tecnologías
 * <img src="https://logo-download.com/wp-content/data/images/svg/Kotlin-logo.svg" alt="Kotlin" width="30"/> **Kotlin** - lenguaje de programación usado en el desarrollo de la aplicación
