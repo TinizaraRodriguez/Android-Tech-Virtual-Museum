@@ -6,11 +6,8 @@ Tras el escaneo podrán visualizar información acerca del objeto así como repr
 Asimismo, se centraliza el resto de acciones como la compra de las entradas, conocer sobre las diferentes charlas o seminarios que se impartirán en el museo y comprar los tickets para acudir a esas charlas desde la propia aplicación.
 
 
-
 ## :ok: Estado del proyecto
 Proyecto finalizado 
-
-[![Quality gate](http://localhost:9000/api/project_badges/quality_gate?project=TechVirtualMuseum2&token=sqb_01f490bb42085df116831879c8954aaa59005a3b)](http://localhost:9000/dashboard?id=TechVirtualMuseum2)
 
 
 ## :white_check_mark: Tecnologías
