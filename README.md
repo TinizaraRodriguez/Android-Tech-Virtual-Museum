@@ -156,4 +156,4 @@ La documentación del software, así como recursos adicionales como una presenta
   <sub>Tinizara Rodriguez - Android</sub>
 </a>
 
-  [![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=TechVirtualMuseum2&metric=alert_status&token=sqb_01f490bb42085df116831879c8954aaa59005a3b)](http://localhost:9000/dashboard?id=TechVirtualMuseum2)
+  ![Quality Gate Status](http://localhost:9000/api/project_badges/measure project=TechVirtualMuseum2&metric=alert_status&token=sqb_01f490bb42085df116831879c8954aaa59005a3b)(http://localhost:9000/dashboard?id=TechVirtualMuseum2)
